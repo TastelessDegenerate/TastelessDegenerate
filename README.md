@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TastelessDegenerate
-- 👀 I’m interested in System Architecture, Automation,  Security and Scripting.
-- 🌱 I’m currently learning web3 fundamentals
+- 👀 I’m **experienced** in System Architecture, Automation,  Security and Scripting.
+- 🌱 I’m currently learning web3 fundamentals, creating proof of concepts and bots
 - 💞️ I’m looking to collaborate on anything that relates to web3
 - 📫 How to reach me https://twitter.com/TastelessDegen
 
